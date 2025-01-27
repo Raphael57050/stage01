@@ -1,3 +1,9 @@
+Les smartphones sont devenus des cibles privilégiées pour les cybercriminels en raison de leur omniprésence dans notre quotidien et de la richesse des données qu’ils contiennent. Ces appareils concentrent des informations personnelles, bancaires et professionnelles, tout en offrant de multiples points d’entrée grâce à leur connexion permanente à Internet et aux applications utilisées. 
+
+Souvent moins protégés que les ordinateurs, et exploités par des comportements imprudents, ils représentent une opportunité majeure pour les attaquants cherchant à :
+- Voler des données,
+- Usurper des identités,
+- Compromettre la vie privée des utilisateurs.
 
 
 # 10 Méthodes pour contourner le contrôle de temps
