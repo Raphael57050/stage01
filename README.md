@@ -1,14 +1,3 @@
-Responsabiliser un enfant face à l’usage des écrans, c’est l’aider à développer une gestion autonome et réfléchie de son temps numérique. 
-
-Cela passe par :
-- **Un dialogue ouvert** : L’enfant participe à l’établissement des règles et comprend leur raison d’être.  
-- **La valorisation de ses efforts** : Encourager ses progrès dans la gestion de son usage.  
-- **Le développement de son esprit critique** : L’aider à analyser les contenus auxquels il est exposé.  
-- **Des choix adaptés à son âge** : Proposer des options qui correspondent à son développement.
-
-L’objectif est de guider l’enfant vers :
-- Un **équilibre sain** entre le numérique et d’autres activités.  
-- La capacité à faire des **choix éclairés et responsables**.
 
 
 # 10 Méthodes pour contourner le contrôle de temps
@@ -37,7 +26,14 @@ L’objectif est de guider l’enfant vers :
 
 ### &#10071;&#10071;Méthode 5 : Contourner le Temps d'Écran en changeant l'heure de l'iPhone
 - **Pourquoi c’est dangereux :**  
-  Modifier l'heure de l'appareil peut causer des problèmes avec le fonctionnement d'autres applications et services. Cela peut affecter des fonctionnalités telles que les notifications push, les calendriers, et l'accès à certaines ressources. En outre, cela peut perturber le bon fonctionnement des règles du Temps d'Écran, mais ne constitue pas une solution durable.
+  Modifier l'heure de l'appareil peut causer des problèmes avec le fonctionnement d'autres applications et services. Cela peut affecter des fonctionnalités telles que les notifications push, les calendriers, et l'accès à certaines ressources. En outre, cela peut perturber le bon fonctionnement des règles du Temps d'Écran, mais ne constitue pas une solution durable.Les smartphones sont devenus des cibles privilégiées pour les cybercriminels en raison de leur omniprésence dans notre quotidien et de la richesse des données qu’ils contiennent. Ces appareils concentrent des informations personnelles, bancaires et professionnelles, tout en offrant de multiples points d’entrée grâce à leur connexion permanente à Internet et aux applications utilisées. 
+
+Souvent moins protégés que les ordinateurs, et exploités par des comportements imprudents, ils représentent une opportunité majeure pour les attaquants cherchant à :
+- Voler des données,
+- Usurper des identités,
+- Compromettre la vie privée des utilisateurs.
+
+
 
 ### &#10071;&#10071;&#10071;Méthode 6 : Utiliser iMessage pour regarder YouTube et surpasser le Temps d'Écran
 - **Pourquoi c’est dangereux :**  
