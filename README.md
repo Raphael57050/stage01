@@ -1,4 +1,17 @@
-# # 10 Méthodes pour contourner le contrôle de temps
+Responsabiliser un enfant face à l’usage des écrans, c’est l’aider à développer une gestion autonome et réfléchie de son temps numérique. 
+
+Cela passe par :
+- **Un dialogue ouvert** : L’enfant participe à l’établissement des règles et comprend leur raison d’être.  
+- **La valorisation de ses efforts** : Encourager ses progrès dans la gestion de son usage.  
+- **Le développement de son esprit critique** : L’aider à analyser les contenus auxquels il est exposé.  
+- **Des choix adaptés à son âge** : Proposer des options qui correspondent à son développement.
+
+L’objectif est de guider l’enfant vers :
+- Un **équilibre sain** entre le numérique et d’autres activités.  
+- La capacité à faire des **choix éclairés et responsables**.
+
+
+# 10 Méthodes pour contourner le contrôle de temps
 
 ## Méthodes sans danger&#10004;&#65039;
 
