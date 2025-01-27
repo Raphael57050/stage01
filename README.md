@@ -1,3 +1,16 @@
+Les parents jouent un rôle fondamental dans l'encadrement des usages des écrans chez les enfants. À une époque où les technologies occupent une place importante dans le quotidien, leur influence peut aider à établir une relation saine avec ces outils. 
+
+- **Montrer l'exemple** : Les parents peuvent incarner un modèle en adoptant eux-mêmes un usage équilibré des écrans.  
+- **Instaurer des règles claires** : Fixer des limites sur la durée et les moments d'utilisation des écrans aide à structurer le quotidien.  
+- **Accompagner activement les usages** : Participer aux activités numériques des enfants, comme jouer ou explorer des contenus ensemble, renforce l'encadrement.  
+- **Proposer des alternatives enrichissantes** : Encourager des activités non numériques comme le sport, la lecture ou les jeux en plein air.
+
+Il s’agit aussi de :
+- Dialoguer et éduquer sur les risques et opportunités associés aux écrans.  
+- Responsabiliser progressivement l’enfant pour lui permettre de développer une **autonomie numérique éclairée**.
+
+En guidant leurs enfants, les parents peuvent les aider à trouver un équilibre entre le temps d’écran et d'autres activités essentielles.
+
 Responsabiliser un enfant face à l’usage des écrans, c’est l’aider à développer une gestion autonome et réfléchie de son temps numérique. 
 
 Cela passe par :
